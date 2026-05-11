@@ -1,3 +1,4 @@
+// src/DB/connections.js
 import mongoose from "mongoose";
 import { MONGODB_URI } from "../../config/config.service.js";
 import chalk from "chalk";
