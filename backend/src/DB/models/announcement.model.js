@@ -1,3 +1,4 @@
+// src/DB/models/announcement.model.js
 import mongoose from "mongoose";
 
 const announcementSchema = new mongoose.Schema({
