@@ -1,4 +1,5 @@
-// SWD-55 Create Tables 
+// SWD-55 Create Tables
+// SWD-56 Insert Sample Data
 import bcrypt from "bcryptjs";
 import mongoose from "mongoose";
 import connectDB from "../src/DB/connections.js";
