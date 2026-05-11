@@ -1,3 +1,4 @@
+// SWD-55 Create Tables 
 import bcrypt from "bcryptjs";
 import mongoose from "mongoose";
 import connectDB from "../src/DB/connections.js";
