@@ -1,3 +1,4 @@
+// SWD-6 API Response Error Fix
 import connectDB from "./DB/connections.js";
 import { announceRouter, authRouter, courseRouter, gradeRouter, scheduleRouter, userRouter } from "./modules/index.js";
 import cors from "cors";
