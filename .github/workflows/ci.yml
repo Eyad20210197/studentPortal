@@ -7,9 +7,9 @@ on:
       - feature
       - HotFix-1
 
-pull_request:
-  branches:
-    - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build:
