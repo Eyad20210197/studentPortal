@@ -1,3 +1,4 @@
+//bug here solved
 import { Outlet, NavLink, useLocation } from "react-router-dom";
 import { useAuth } from "../context/useAuth";
 

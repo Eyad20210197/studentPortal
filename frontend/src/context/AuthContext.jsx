@@ -1,3 +1,5 @@
+// src/context/AuthContext.jsx
+//
 import { useMemo, useState } from "react";
 import { logoutApi } from "../services/authservice";
 import { AuthContext } from "./auth-context";

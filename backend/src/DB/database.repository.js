@@ -1,3 +1,4 @@
+// src/DB/database.repository.js
 export const findOne = async ({model, filter = {}, select="",options = {}}) => {  
      const doc = model.findOne(filter)
      if(select.length){
