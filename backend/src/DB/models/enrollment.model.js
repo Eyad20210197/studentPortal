@@ -1,3 +1,4 @@
+// src/DB/models/enrollment.model.js
 import mongoose from "mongoose";
 import { EnrollmentEnum } from "../../utils/enums/enrollmentEnum.js";
 
